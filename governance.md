@@ -148,9 +148,8 @@ Building community trust in the governance of an open-source project is vital to
 * Unitex/GramLab includes copyrighted third-party libraries licensed either under the terms of the Apache Software License Version 1.1, or  under the terms of the [BSD 2-Clause][BSD-2-Clause] License ("BSD License"). All  third-party packages are copyright by their respective authors.
 
 ### About this document
-This work is based upon.
 
-This document is licensed under a [Creative Commons Attribution-ShareAlike 2.0](http://creativecommons.org/licenses/by-sa/2.0/). This work is based upon the ["OpenRefine Governance Model"](https://github.com/OpenRefine/openrefine.github.com/blob/master/governance.md) and the [OWIN Project Governance model](https://docs.google.com/document/d/1mn3dY6zNyKBU3P_TWoR-RdYpScJDbsXU2TRhwpSAha8), which themselves are based upon  "[Meritocratic Governance Model](http://www.oss-watch.ac.uk/resources/meritocraticGovernanceModel)" by University of Oxford. This document contains information about the [Lazy Consensus](http://community.apache.org/committers/lazyConsensus.html) concept available from the [Apache Community](http://community.apache.org).
+This document is licensed under a [Creative Commons Attribution-ShareAlike 2.0](http://creativecommons.org/licenses/by-sa/2.0/). This work is based upon the ["OpenRefine Governance Model"](https://github.com/OpenRefine/openrefine.github.com/blob/master/governance.md) and the [OWIN Project Governance model](https://docs.google.com/document/d/1mn3dY6zNyKBU3P_TWoR-RdYpScJDbsXU2TRhwpSAha8), which themselves are based upon  "[Meritocratic Governance Model](http://www.oss-watch.ac.uk/resources/meritocraticGovernanceModel)" by University of Oxford. This document contains information about the [Lazy Consensus](http://community.apache.org/committers/lazyConsensus.html) concept available from the [Apache Community](http://community.apache.org) and use the [Semantic Versioning scheme](http://semver.org) to track version releases.
 
 --
 
