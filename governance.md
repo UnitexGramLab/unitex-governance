@@ -8,13 +8,18 @@
 
 [Unitex/GramLab][unitex] is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite. Project decision-making is based on a community meritocratic process, anyone with an interest in the project can join the community, contribute to the project design and participate in decisions. This document describes how that participation takes place and how to set about earning merit within the project community.
 
-### Communication
+### Project Management Infrastructure
 
-| Name                                 | Link                             |
-| ------------------------------------ | -------------------------------- |
-Unitex/GramLab users forum             | http://forum.unitexgramlab.org   |
-Unitex/GramLab developers mailing list | unitex-devel@univ-mlv.fr         |
-Unitex/GramLab issues trackers         | https://github.com/UnitexGramLab |
+| Name                    | Link                             |
+| ----------------------- | -------------------------------- |
+| main website            | http://unitexgramlab.org         |
+| users forum             | http://forum.unitexgramlab.org   |
+| developers mailing list | unitex-devel@univ-mlv.fr         |
+| code hosting            | https://github.com/UnitexGramLab |
+
+### Getting support
+
+All participants in the Unitex/GramLab community are encouraged to provide support for new users within the project management infrastructure. This support is provided as a way of growing the community. Those seeking support should recognise that all support activity within the project is voluntary and is therefore provided as and when time allows. A user requiring guaranteed response times or results should therefore seek to purchase a support contract from a community member. However, for those willing to engage with the project on its own terms, and willing to help support other users, the community support channels, as the [developer mailing list][devel] or the [users forum][forum], are ideal.
 
 ### Roles And Responsibilities
 
@@ -102,10 +107,6 @@ Membership of the U/G-PMC is by invitation from the existing members. A nominati
 The U/G-PMC Chair is a single individual, voted for by the U/G-PMC members. Once someone has been appointed Chair, they remain in that role until they choose to retire, or the U/G-PMC casts a two-thirds majority vote to remove them.
 
 The U/G-PMC Chair has no additional authority over other members of the U/G-PMC: the role is one of coordinator and facilitator. The Chair is also expected to ensure that all governance processes are adhered to, and has the casting vote when the project fails to reach consensus. 
-
-### Support
-
-All participants in the Unitex/GramLab community are encouraged to provide support for new users within the project management infrastructure. This support is provided as a way of growing the community. Those seeking support should recognise that all support activity within the project is voluntary and is therefore provided as and when time allows. A user requiring guaranteed response times or results should therefore seek to purchase a support contract from a community member. However, for those willing to engage with the project on its own terms, and willing to help support other users, the community support channels, as the [developer mailing list][devel] or the [users forum][forum], are ideal.
 
 ### Decision Making Process 
 
