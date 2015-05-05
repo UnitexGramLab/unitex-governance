@@ -106,6 +106,10 @@ Contributors are invited to express their opinion of any given feature or pull r
 | -0.9  | I really don't like this, but I'm not going to stand in the way if everyone else wants to go ahead with it |
 | -1    | I don't agree and I am offering an alternative that I am able to help implement                            |
 
+#### Open Development process
+
+Unitex/GramLab development is based on user consensus and open discussion between users. Decision making must be done in a transparent, open fashion (ie. using discussion list and issue list). No decisions about the project's direction, bug fixes or features may be done in private without community involvement and participation. Discussions must begin at the earliest possible point on a topic; the community's participation is vital during the entire decision-making process.
+
 ### About this document
 
 This document is licensed under a [Creative Commons Attribution-ShareAlike 2.0](http://creativecommons.org/licenses/by-sa/2.0/). This work is based upon the ["OpenRefine Governance Model"](https://github.com/OpenRefine/openrefine.github.com/blob/master/governance.md) which itself is based upon the University of Oxford ["Meritocratic Governance Model"](http://www.oss-watch.ac.uk/resources/meritocraticGovernanceModel), the [OWIN Project Governance model](https://docs.google.com/document/d/1mn3dY6zNyKBU3P_TWoR-RdYpScJDbsXU2TRhwpSAha8) and the [Lazy Consensus](http://community.apache.org/committers/lazyConsensus.html) guideline available for the [Apache Community](http://community.apache.org).
