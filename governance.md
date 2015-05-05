@@ -6,29 +6,28 @@
 
 ### Overview
 
-[Unitex/GramLab][unitex] is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite. Project decision-making is based on a community meritocratic process, anyone with an interest in the project can join the community, contribute to the project design and participate in decisions. This document describes how that participation takes place and how to set about earning merit within the project community. 
+[Unitex/GramLab][unitex] is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite. Project decision-making is based on a community meritocratic process, anyone with an interest in the project can join the community, contribute to the project design and participate in decisions. This document describes how that participation takes place and how to set about earning merit within the project community.
 
-### Project License
+### Communication
 
-* Core (Unitex) and IDE (GramLab) components are distributed under the terms of the GNU Lesser General Public License, version 2.1 [LGPLv2][LGPLv2], which itself incorporates the terms and conditions of the GNU General Public License.
-
-* Linguistic Resources are distributed under the terms of the Lesser General Public License For Linguistic Resources [LGPL-LR][LGPL-LR].
-
-* Unitex/GramLab includes copyrighted third-party libraries licensed either under the terms of the Apache Software License Version 1.1, or  under the terms of the [BSD 2-Clause][BSD-2-Clause] License ("BSD License"). All  third-party packages are copyright by their respective authors.
+| Name                                 | Link                             |
+| ------------------------------------ | -------------------------------- |
+Unitex/GramLab users forum             | http://forum.unitexgramlab.org   |
+Unitex/GramLab developers mailing list | unitex-devel@univ-mlv.fr         |
+Unitex/GramLab issues trackers         | https://github.com/UnitexGramLab |
 
 ### Roles And Responsibilities
 
-Unitex/GramLab development is based on user consensus and open discussion between users. Anyone with an interest in the project can join the community, contribute to the project design and participate in the decision making process. This document describes how that participation takes place.
+Unitex/GramLab development is based on user consensus and open discussion between users. In order to have a smoothly running project, formal roles with corresponding responsibilities are established. A member of the community may have multiple roles.
 
 #### Unitex/GramLab Users
 
-Unitex/GramLab users are community members who have a need for the project. Through their usage, they give the project a purpose. Members are encouraged to participate in the project life by providing feedback on how their needs are satisfied.
-
-The project asks its users to participate in the project and community as much as possible. User contributions enable the project team to ensure that they are satisfying the needs of those users. Common user contributions include, but are not limited to: 
+Unitex/GramLab users are community members who have a need for the project, they are the most important members of the community: through their usage, they give the project a purpose. Users should be encouraged to participate in the life of the project and the community as much as possible. User contributions enable the project team to ensure that they are satisfying the needs of those users. Common user activities include, but are not limited to:
 
 * Evangelising about the project.
 * Informing developers of strengths and weaknesses from a new user perspective both through the [Unitex/GramLab forum][forum] or following the [Bug Reporting Guide][bugs].
-* Identifying needs.
+* Identifying needs and filing feature requests.
+* Participating on the [users forum][forum].
 * Providing moral support, a 'thank you' goes a long way.
 
 ###### Become a Unitex/GramLab User
@@ -139,6 +138,14 @@ Contributors are invited to express their opinion of any given feature or pull r
 #### Open Development Process
 
 Unitex/GramLab development is based on user consensus and open discussion between users. Decision making must be done in a transparent, open fashion (ie. using discussion list and issue list). No decisions about the project's direction, bug fixes or features may be done in private without community involvement and participation. Discussions must begin at the earliest possible point on a topic; the community's participation is vital during the entire decision-making process.
+
+### Unitex/GramLab Project License
+
+* Core (Unitex) and IDE (GramLab) components are distributed under the terms of the GNU Lesser General Public License, version 2.1 [LGPLv2][LGPLv2], which itself incorporates the terms and conditions of the GNU General Public License.
+
+* Linguistic Resources are distributed under the terms of the Lesser General Public License For Linguistic Resources [LGPL-LR][LGPL-LR].
+
+* Unitex/GramLab includes copyrighted third-party libraries licensed either under the terms of the Apache Software License Version 1.1, or  under the terms of the [BSD 2-Clause][BSD-2-Clause] License ("BSD License"). All  third-party packages are copyright by their respective authors.
 
 ### About this document
 
