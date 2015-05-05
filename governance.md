@@ -57,6 +57,8 @@ The [documentation for developers](https://github.com//UnitexGramLab/unitex-doc-
 * Writing and maintaining the documentation.
 * Participate in the community's activities.
 
+###### Become a Non-Coding Contributor
+
 #### Unitex/GramLab Commiters
 
 Unitex/GramLab Committers are contributors who have shown dedication to the project, have a deep understanding of the code base and project strategy and work well with contributors and users. Committers have no more authorities than contributors, and they should engage with the community through the [developer mailing list][devel] or the [users forum][forum] regarding their intention. However committers have earn enough trust from the community to have direct access to the project code base without having to submit pull request. Committers seeks approval after the contribution is made, rather than before. Therefor committers
