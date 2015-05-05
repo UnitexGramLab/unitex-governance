@@ -8,7 +8,9 @@
 
 [Unitex/GramLab][unitex] is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite. Project decision-making is based on a community meritocratic process, anyone with an interest in the project can join the community, contribute to the project design and participate in decisions. This document describes how that participation takes place and how to set about earning merit within the project community.
 
-### Project Management Infrastructure
+### Background
+
+#### Project Infrastructure
 
 | Name                    | Link                             |
 | ----------------------- | -------------------------------- |
@@ -17,7 +19,7 @@
 | Developers mailing list | unitex-devel@univ-mlv.fr         |
 | Code hosting            | https://github.com/UnitexGramLab |
 
-### Getting support
+#### Getting support
 
 All participants in the Unitex/GramLab community are encouraged to provide support for new users within the project management infrastructure. This support is provided as a way of growing the community. Those seeking support should recognise that all support activity within the project is voluntary and is therefore provided as and when time allows. A user requiring guaranteed response times or results should therefore seek to purchase a support contract from a community member. However, for those willing to engage with the project on its own terms, and willing to help support other users, the community support channels, as the [developer mailing list][devel] or the [users forum][forum], are ideal.
 
