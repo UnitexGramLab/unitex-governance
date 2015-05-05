@@ -4,6 +4,12 @@
 
 > The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in the [RFC 2119][RFC2119] 
 
+### History
+
+| Version    | User              | Description                                  |
+| :--------: | ----------------- | -------------------------------------------- |
+| 0.1.0      | @martinec         | First draft                                  |
+
 ### Overview
 
 [Unitex/GramLab][unitex] is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite. Project decision-making is based on a community meritocratic process, anyone with an interest in the project can join the community, contribute to the project design and participate in decisions. This document describes how that participation takes place and how to set about earning merit within the project community.
