@@ -39,7 +39,7 @@ Unitex/GramLab users are community members who have a need for the project, they
 
 ###### Become a Unitex/GramLab User
 
-Anyone can be a user; there are no special requirements. Users who continue to engage with the project and its community will often become more and more involved. Such users may find themselves becoming Unitex/GramLab Contributors, as described in the next section.
+Anyone can be a user; there are no special requirements. Users who continue to engage with the project and the community will often find themselves becoming more and more involved. Such users may then go on to become Unitex/GramLab Contributors, as described below.
 
 #### Unitex/GramLab Contributors
 
@@ -95,7 +95,7 @@ Unitex/GramLab Sponsors are ...
 
 #### Unitex/GramLab Project Management Committee
 
-The Unitex/GramLab Project Management Committee (U/G-PMC) has additional responsibilities over and above those of a committer or sponsor. These responsibilities ensure the smooth running of the project. His members organizations do not have significant authority over other members of the community, although it makes decisions when community consensus cannot be reached.
+The Unitex/GramLab Project Management Committee (U/G-PMC) has additional responsibilities over and above those of a committer or sponsor. These responsibilities ensure the smooth running of the project. His members do not have significant authority over other members of the community, although it makes decisions when community consensus cannot be reached. Project Management Committee activities include:
 
 * Participate in strategic planning.
 * Approve changes to the governance model. 
@@ -106,25 +106,23 @@ Membership of the U/G-PMC is by invitation from the existing members. A nominati
 
 ##### Unitex/GramLab Project Management Committee Chair
 
-The U/G-PMC Chair is a single individual, voted for by the U/G-PMC members. Once someone has been appointed Chair, they remain in that role until they choose to retire, or the U/G-PMC casts a two-thirds majority vote to remove them.
+The U/G-PMC Chair is a single committer and the project leader whom people interested in the project can consider the primary point of contact or first point of contact for the project. The chair is voted by the U/G-PMC members. Once someone has been appointed Chair, they remain in that role until they choose to retire, or the U/G-PMC casts a two-thirds majority vote to remove them.
 
-The U/G-PMC Chair has no additional authority over other members of the U/G-PMC: the role is one of coordinator and facilitator. The Chair is also expected to ensure that all governance processes are adhered to, and has the casting vote when the project fails to reach consensus. 
+The U/G-PMC Chair has no additional authority over other members of the U/G-PMC: the role is one of coordinator and point of contact. The Chair is also expected to ensure that all governance processes are adhered to, and has the casting vote when the project fails to reach consensus. 
 
 ### Decision Making Process 
 
-From a practical point of view, the direction that the project takes is controlled by the contributors, not the users (unless they're contributors too). Development is made based on contributors and committers donating their time and money to the community. In order to ensure that the project is not bogged down by endless discussion and continual voting, the project operates using the [Apache Decision Making][makedecision] process. This allows the majority of decisions to be made without resorting to a formal vote.
+From a practical point of view, the direction that the project takes is controlled by the contributors, not the users, unless they're contributors too. Development is made based on contributors and committers donating their time to the community. In order to ensure that the project is not bogged down by endless discussion and continual voting, the project operates using the [Apache Decision Making][makedecision] process. This allows the majority of decisions to be made without resorting to a formal vote.
 
 #### Lazy Concensus
 
-The [lazy consensus](http://community.apache.org/committers/lazyConsensus.html) is used for most the contribution ranging from bug fixes to minor changes where the contributor assume to have the support of the community to tackle the issue.
+[Lazy consensus](http://community.apache.org/committers/lazyConsensus.html) is a very important concept within the project. It is this process that allows a large group of people to efficiently reach consensus, as someone with no objections to a proposal need not spend time stating their position, and others need not spend time reading such mails. For lazy consensus to be effective, it is necessary to allow at least 72 hours before assuming that there are no objections to the proposal. This requirement ensures that everyone is given enough time to read, digest and respond to the proposal. This time period is chosen so as to be as inclusive as possible of all participants, regardless of their location and time commitments. In all cases silence is consent.
 
-If you are not sure to have the support of the community for a change, you can state a lazy consensus. Member of the community have then 72h to provide feedback on the proposal. 
+The lazy consensus is used for most the contribution ranging from bug fixes to minor changes where the contributor assume to have the support of the community to tackle the issue.
 
-In all cases silence is consent.
+#### Voting
 
-#### Consensus Building
-
-If you feel that lazy consensus isn't appropriate for your proposal, you can explicitly request for feedback on the the [developer mailing list][devel]. [Building concensus](http://community.apache.org/committers/consensusBuilding.html) help contributors and committers to gather feedback early on and pool the interest by the community for a new feature.
+Not all decisions can be made using lazy consensus. If you feel that lazy consensus isn't appropriate for your proposal, you can explicitly request for feedback on the [developer mailing list][devel]. [Building concensus](http://community.apache.org/committers/consensusBuilding.html) help contributors and committers to gather feedback early on and pool the interest by the community for a new feature.
 
 Contributors are invited to express their opinion of any given feature or pull request. Support is expressed using:
 
@@ -137,9 +135,9 @@ Contributors are invited to express their opinion of any given feature or pull r
 | -0.9  | I really don't like this, but I'm not going to stand in the way if everyone else wants to go ahead with it |
 | -1    | I don't agree and I am offering an alternative that I am able to help implement                            |
 
-#### Open Development Process
+#### Transparency
 
-Unitex/GramLab development is based on user consensus and open discussion between users. Decision making must be done in a transparent, open fashion, ie. using the [users forum list][forum] and sub-projects issue lists. No decisions about the project's direction, bug fixes or features may be done in private without community involvement and participation. Discussions must begin at the earliest possible point on a topic; the community's participation is vital during the entire decision-making process.
+Building community trust in the governance of an open-source project is vital to its success. To that end, Unitex/GramLab project decision making must be done in a transparent, open fashion. No decisions about the project's direction, bug fixes or features may be done without community involvement and participation. Discussions must begin at the earliest possible point on a topic; the community’s participation is vital during the entire decision-making process.
 
 ### Unitex/GramLab Project License
 
@@ -150,8 +148,9 @@ Unitex/GramLab development is based on user consensus and open discussion betwee
 * Unitex/GramLab includes copyrighted third-party libraries licensed either under the terms of the Apache Software License Version 1.1, or  under the terms of the [BSD 2-Clause][BSD-2-Clause] License ("BSD License"). All  third-party packages are copyright by their respective authors.
 
 ### About this document
+This work is based upon.
 
-This document is licensed under a [Creative Commons Attribution-ShareAlike 2.0](http://creativecommons.org/licenses/by-sa/2.0/). This work is based upon the ["OpenRefine Governance Model"](https://github.com/OpenRefine/openrefine.github.com/blob/master/governance.md) which itself is based upon the University of Oxford ["Meritocratic Governance Model"](http://www.oss-watch.ac.uk/resources/meritocraticGovernanceModel), the [OWIN Project Governance model](https://docs.google.com/document/d/1mn3dY6zNyKBU3P_TWoR-RdYpScJDbsXU2TRhwpSAha8) and the [Lazy Consensus](http://community.apache.org/committers/lazyConsensus.html) guideline available for the [Apache Community](http://community.apache.org).
+This document is licensed under a [Creative Commons Attribution-ShareAlike 2.0](http://creativecommons.org/licenses/by-sa/2.0/). This work is based upon the ["OpenRefine Governance Model"](https://github.com/OpenRefine/openrefine.github.com/blob/master/governance.md) and the [OWIN Project Governance model](https://docs.google.com/document/d/1mn3dY6zNyKBU3P_TWoR-RdYpScJDbsXU2TRhwpSAha8), which themselves are based upon  "[Meritocratic Governance Model](http://www.oss-watch.ac.uk/resources/meritocraticGovernanceModel)" by University of Oxford. This document contains information about the [Lazy Consensus](http://community.apache.org/committers/lazyConsensus.html) concept available from the [Apache Community](http://community.apache.org).
 
 --
 
