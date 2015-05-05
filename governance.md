@@ -135,7 +135,8 @@ Contributors are invited to express their opinion of any given feature or pull r
 | -0.9  | I really don't like this, but I'm not going to stand in the way if everyone else wants to go ahead with it |
 | -1    | I don't agree and I am offering an alternative that I am able to help implement                            |
 
-#### Open Development process
+
+#### Open Development Process
 
 Unitex/GramLab development is based on user consensus and open discussion between users. Decision making must be done in a transparent, open fashion (ie. using discussion list and issue list). No decisions about the project's direction, bug fixes or features may be done in private without community involvement and participation. Discussions must begin at the earliest possible point on a topic; the community's participation is vital during the entire decision-making process.
 
