@@ -4,9 +4,9 @@
 
 ### Overview
 
-[Unitex/GramLab][unitex] is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite.
+[Unitex/GramLab][unitex] is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite. Project decision-making is based on a community meritocratic process, anyone with an interest in the project can join the community, contribute to the project design and participate in decisions. This document describes how that participation takes place and how to set about earning merit within the project community. 
 
-### License
+### Project License
 
 * Core (Unitex) and IDE (GramLab) components are distributed under the terms of the GNU Lesser General Public License, version 2.1 [LGPLv2][LGPLv2], which itself incorporates the terms and conditions of the GNU General Public License.
 
@@ -18,43 +18,49 @@
 
 Unitex/GramLab development is based on user consensus and open discussion between users. Anyone with an interest in the project can join the community, contribute to the project design and participate in the decision making process. This document describes how that participation takes place.
 
-#### Unitex/GramLab users
+#### Unitex/GramLab Users
 
 Unitex/GramLab users are community members who have a need for the project. Through their usage, they give the project a purpose. Members are encouraged to participate in the project life by providing feedback on how their needs are satisfied.
 
-Users activities include, but are not limited to:
+The project asks its users to participate in the project and community as much as possible. User contributions enable the project team to ensure that they are satisfying the needs of those users. Common user contributions include, but are not limited to: 
 
-* Evangelisation and advocating for the project.
+* Evangelising about the project.
 * Informing developers of strengths and weaknesses from a new user perspective both through the [Unitex/GramLab forum][forum] or following the [Bug Reporting Guide][bugs].
+* Identifying needs.
 * Providing moral support, a 'thank you' goes a long way.
-* Writing [tutorials][tutorials].
+
+###### Become a Unitex/GramLab User
+
+Anyone can be a user; there are no special requirements. Users who continue to engage with the project and its community will often become more and more involved. Such users may find themselves becoming Unitex/GramLab Contributors, as described in the next section.
 
 #### Unitex/GramLab Contributors
 
-Unitex/GramLab contributors are users contributing in concrete ways to the project. Contribution may be a one time participation or occur over time. Contribution can take place in many ways:
+Unitex/GramLab Contributors are community members who contribute in concrete ways to the project. Contribution may be a one time participation or occur over time. Contribution can take place in many specific ways:
 
 ##### Linguistic Resources Contributors
 [LR-contributor]
 
-* Contribute new linguistic Resources and help maintain existing ones.
+* Contributing new linguistic resources and helping maintain existing ones.
 
 ###### Become a Linguistic Resources Contributor
 
 ##### Coding Contributors
 [DEV-Contributor]
 
-* Submit patches to fix bugs or add features.
+* Adding features.
+* Submitting patches to fix bugs or add features.
 * Identifying requirements.
+* Assisting with project infrastructure.
 
 ###### Become a Coding Contributor
 
-The [documentation for developers](https://github.com//UnitexGramLab/unitex-doc-devel) is a good place to start getting familiar with the coding style and documentation guidelines. We invite contributors to share their feature development and patch idea through the [developer mailing list][devel] or the [users forum][forum]. It is recommended to start with small patches and share your code early so the community can provide feedback and guidance.
+The [documentation for developers](https://github.com//UnitexGramLab/unitex-doc-devel) is a good place to start getting familiar with the coding style and documentation guidelines. Coding Contributors engage with the project through the issue tracker and the [developer mailing list][devel], or by writing or editing documentation. We invite contributors to share their feature development and patch idea through the [developer mailing list][devel] or the [users forum][forum]. It is recommended to start with small patches and share your code early so the existing committers (see next section) can provide feedback and guidance.
 
 ##### Non-Coding Contributors
 
 [Non-code contributions](https://modelviewculture.com/pieces/non-coding-contributors-in-open-source) ([Contributor]) are incredibly valuable and very welcome,  Here are some examples of simple ways to contribute:
 
-* Writing and maintaining the documentation.
+* Writing and maintaining the documentation (e.g. [tutorials][tutorials])
 * Participate in the community's activities.
 
 ###### Become a Non-Coding Contributor
