@@ -12,10 +12,10 @@
 
 | Name                    | Link                             |
 | ----------------------- | -------------------------------- |
-| main website            | http://unitexgramlab.org         |
-| users forum             | http://forum.unitexgramlab.org   |
-| developers mailing list | unitex-devel@univ-mlv.fr         |
-| code hosting            | https://github.com/UnitexGramLab |
+| Main website            | http://unitexgramlab.org         |
+| Users forum             | http://forum.unitexgramlab.org   |
+| Developers mailing list | unitex-devel@univ-mlv.fr         |
+| Code hosting            | https://github.com/UnitexGramLab |
 
 ### Getting support
 
