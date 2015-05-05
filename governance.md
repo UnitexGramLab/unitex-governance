@@ -8,7 +8,7 @@
 
 | Version    | User              | Description                                  |
 | :--------: | ----------------- | -------------------------------------------- |
-| 0.1.0      | @martinec         | First draft                                  |
+| 0.1.0      | martinec          | First draft                                  |
 
 ### Overview
 
