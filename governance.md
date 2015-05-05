@@ -2,6 +2,8 @@
 
 > This document is a draft for discussion and still a work in progress. To contribute, please submit a [pull request](https://github.com/UnitexGramLab/governance/pulls). Major changes will be discussed in the comment section.
 
+> The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in the [RFC 2119][RFC2119] 
+
 ### Overview
 
 [Unitex/GramLab][unitex] is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite. Project decision-making is based on a community meritocratic process, anyone with an interest in the project can join the community, contribute to the project design and participate in decisions. This document describes how that participation takes place and how to set about earning merit within the project community. 
@@ -126,6 +128,7 @@ This document is licensed under a [Creative Commons Attribution-ShareAlike 2.0](
 
 Copyright (C) 2014-2015 Université Paris-Est Marne-la-Vallée
 
+[RFC2119]:      http://tools.ietf.org/html/rfc2119
 [repos]:        https://github.com/UnitexGramLab
 [unitex]:       http://unitexgramlab.org
 [forum]:        http://forum.unitexgramlab.org
@@ -137,3 +140,4 @@ Copyright (C) 2014-2015 Université Paris-Est Marne-la-Vallée
 [BSD-2-Clause]: http://opensource.org/licenses/BSD-2-Clause
 [newcommitter]: https://community.apache.org/newcommitter.html
 [makedecision]: http://community.apache.org/committers/decisionMaking.html
+
