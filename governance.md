@@ -75,9 +75,7 @@ Unitex/GramLab Committers are contributors who have shown dedication to the proj
 * Merge pull request submit by contributors.
 * Have direct access to the code base.
 * Nominate and vote new committers.
-* Participate in the strategic planning.
 * Participate in the release planning.
-* Approve changes to the governance model.
 
 ###### Become a Commiter
 
@@ -85,13 +83,34 @@ You need to start being a Unitex/GramLab Contributor and be then be nominated as
 
 #### Unitex/GramLab Sponsors
 
-Unitex/GramLab Committers are ...
+Unitex/GramLab Sponsors are ...
 
 ###### Become a Sponsor
 
-###  Decision Making Process 
+#### Unitex/GramLab Project Management Committee
 
-From a practical point of view, the direction that the project takes is controlled by the contributors, not the users (unless they're contributors too). Development is made based on contributors and committers donating their time and money to the community. Unitex/GramLab use the [Apache Decision Making][makedecision] process to decide the future of the project.
+The Unitex/GramLab Project Management Committee (U/G-PMC) has additional responsibilities over and above those of a committer or sponsor. These responsibilities ensure the smooth running of the project. His members organizations do not have significant authority over other members of the community, although it makes decisions when community consensus cannot be reached.
+
+* Participate in strategic planning.
+* Approve changes to the governance model. 
+* Manage the copyrights within the project outputs.
+* Access to the project's private archives (They are never used for project management or planning, only include information about sensitive issues, and legal matters that cannot be discussed in public.)
+
+Membership of the U/G-PMC is by invitation from the existing members. A nomination will result in discussion and then a vote by the existing members. Membership votes are subject to consensus approval of the current members. 
+
+##### Unitex/GramLab Project Management Committee Chair
+
+The U/G-PMC Chair is a single individual, voted for by the U/G-PMC members. Once someone has been appointed Chair, they remain in that role until they choose to retire, or the U/G-PMC casts a two-thirds majority vote to remove them.
+
+The U/G-PMC Chair has no additional authority over other members of the U/G-PMC: the role is one of coordinator and facilitator. The Chair is also expected to ensure that all governance processes are adhered to, and has the casting vote when the project fails to reach consensus. 
+
+### Support
+
+All participants in the Unitex/GramLab community are encouraged to provide support for new users within the project management infrastructure. This support is provided as a way of growing the community. Those seeking support should recognise that all support activity within the project is voluntary and is therefore provided as and when time allows. A user requiring guaranteed response times or results should therefore seek to purchase a support contract from a community member. However, for those willing to engage with the project on its own terms, and willing to help support other users, the community support channels, as the [developer mailing list][devel] or the [users forum][forum], are ideal.
+
+### Decision Making Process 
+
+From a practical point of view, the direction that the project takes is controlled by the contributors, not the users (unless they're contributors too). Development is made based on contributors and committers donating their time and money to the community. In order to ensure that the project is not bogged down by endless discussion and continual voting, the project operates using the [Apache Decision Making][makedecision] process. This allows the majority of decisions to be made without resorting to a formal vote.
 
 #### Lazy Concensus
 
