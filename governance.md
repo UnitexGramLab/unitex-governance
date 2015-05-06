@@ -54,23 +54,23 @@ Unitex/GramLab development is based on user consensus and open discussion betwee
   <tr align="center">
     <td  rowspan="3">Unitex/GramLab Contributor</td>
     <td> Linguistic Resources Contributor</td>
-    <td>LR-Contributor</td>
+    <td>[LR-Contributor](#linguistic-resources-contributors)</td>
   </tr>
   <tr align="center">
     <td>Coding Contributor</td>
-    <td>DEV-Contributor</td>
+    <td>[DEV-Contributor](#coding-contributors)</td>
   </tr>
   <tr align="center">
     <td>Non-Coding Contributor</td>
-    <td>Contributor</td>
+    <td>[Contributor](#non-coding-contributors)</td>
   </tr>
   <tr align="center">
     <td colspan="2">Unitex/GramLab Commiter</td>
-    <td>Commiter</td>
+    <td>[Commiter](#unitexgramlab-commiters)</td>
   </tr>
   <tr align="center">
     <td colspan="2">Unitex/GramLab Sponsor</td>
-    <td>Sponsor</td>
+    <td>[Sponsor](unitexgramlab-sponsors)</td>
   </tr>
   <tr align="center">
     <td rowspan="2">Unitex/GramLab Management Committee Member</td>
@@ -81,10 +81,7 @@ Unitex/GramLab development is based on user consensus and open discussion betwee
     <td>Committee Chair</td>
     <td>Project Leader</td>
   </tr>
-</table> 
-
-
-
+</table>
 
 #### Unitex/GramLab Users
 
