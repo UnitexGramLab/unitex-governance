@@ -25,7 +25,7 @@
 | Developers mailing list | unitex-devel@univ-mlv.fr         |
 | Code hosting            | https://github.com/UnitexGramLab |
 
-### Project License
+#### Project License
 
 * Core (Unitex) and IDE (GramLab) components are distributed under the terms of the GNU Lesser General Public License, version 2.1 [LGPLv2][LGPLv2], which itself incorporates the terms and conditions of the GNU General Public License.
 
