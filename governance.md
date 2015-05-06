@@ -49,7 +49,7 @@ Unitex/GramLab development is based on user consensus and open discussion betwee
   </tr>
   <tr align="center">
      <td colspan="2">Unitex/GramLab User</td>
-     <td>User</td>
+     <td>[User](#unitexgramlab-users)</td>
   </tr>
   <tr align="center">
     <td  rowspan="3">Unitex/GramLab Contributor</td>
