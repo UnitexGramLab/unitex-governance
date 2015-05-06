@@ -25,6 +25,14 @@
 | Developers mailing list | unitex-devel@univ-mlv.fr         |
 | Code hosting            | https://github.com/UnitexGramLab |
 
+### Project License
+
+* Core (Unitex) and IDE (GramLab) components are distributed under the terms of the GNU Lesser General Public License, version 2.1 [LGPLv2][LGPLv2], which itself incorporates the terms and conditions of the GNU General Public License.
+
+* Linguistic Resources are distributed under the terms of the Lesser General Public License For Linguistic Resources [LGPL-LR][LGPL-LR].
+
+* Unitex/GramLab includes copyrighted third-party libraries licensed either under the terms of the Apache Software License Version 1.1, or  under the terms of the [BSD 2-Clause][BSD-2-Clause] License ("BSD License"). All  third-party packages are copyright by their respective authors.
+
 #### Getting support
 
 All participants in the Unitex/GramLab community are encouraged to provide support for new users within the project management infrastructure. This support is provided as a way of growing the community. Those seeking support should recognise that all support activity within the project is voluntary and is therefore provided as and when time allows. A user requiring guaranteed response times or results should therefore seek to purchase a support contract from a community member. However, for those willing to engage with the project on its own terms, and willing to help support other users, the community support channels, as the [developer mailing list][devel] or the [users forum][forum], are ideal.
@@ -68,7 +76,7 @@ Unitex/GramLab Contributors are community members who contribute in concrete way
 
 ###### Become a Coding Contributor
 
-The [documentation for developers](https://github.com//UnitexGramLab/unitex-doc-devel) is a good place to start getting familiar with the coding style and documentation guidelines. Coding Contributors engage with the project through the issue tracker and the [developer mailing list][devel], or by writing or editing documentation. We invite contributors to share their feature development and patch idea through the [developer mailing list][devel] or the [users forum][forum]. It is recommended to start with small patches and share your code early so the existing committers (see next section) can provide feedback and guidance.
+The [documentation for developers](https://github.com//UnitexGramLab/unitex-doc-devel) is a good place to start getting familiar with the coding style and documentation guidelines. We invite contributors to share their feature development and patch idea through the [developer mailing list][devel] or the [users forum][forum]. It is recommended to start with small patches and share your code early so the existing committers (see next section) can provide feedback and guidance.
 
 ##### Non-Coding Contributors
 
@@ -91,7 +99,7 @@ Unitex/GramLab Committers are contributors who have shown dedication to the proj
 
 ###### Become a Commiter
 
-You need to start being a Unitex/GramLab Contributor and be then be nominated as a committer. Unitex/GramLab select and elect new committers using the [Apache model][newcommitter]. You may nominate yourself. Nomination should be sent to the [developer mailing list][devel].
+You need to start being a Unitex/GramLab Contributor and be then be nominated as a Committer. Unitex/GramLab commiters select and elect new ones using the [Guidelines for assessing new candidates for committership][newcommitter] from the Apache Software Foundation.
 
 #### Unitex/GramLab Sponsors
 
@@ -101,12 +109,12 @@ Unitex/GramLab Sponsors are ...
 
 #### Unitex/GramLab Project Management Committee
 
-The Unitex/GramLab Project Management Committee (U/G-PMC) has additional responsibilities over and above those of a committer or sponsor. These responsibilities ensure the smooth running of the project. His members do not have significant authority over other members of the community, although it makes decisions when community consensus cannot be reached. Project Management Committee activities include:
+The Unitex/GramLab Project Management Committee (U/G-PMC) has additional responsibilities over and above those of a committer or sponsor. These responsibilities ensure the smooth running of the project. His members do not have significant authority over other members of the community, although they make decisions when community consensus cannot be reached. Project Management Committee activities include:
 
 * Participate in strategic planning.
 * Approve changes to the governance model. 
 * Manage the copyrights within the project outputs.
-* Access to the project's private archives (They are never used for project management or planning, only include information about sensitive issues, and legal matters that cannot be discussed in public.)
+* Access to the project's private archives (They are never used for project management or planning. This include information about sensitive issues, and legal matters that cannot be discussed in public.)
 
 Membership of the U/G-PMC is by invitation from the existing members. A nomination will result in discussion and then a vote by the existing members. Membership votes are subject to consensus approval of the current members. 
 
@@ -144,14 +152,6 @@ Contributors are invited to express their opinion of any given feature or pull r
 #### Transparency
 
 Building community trust in the governance of an open-source project is vital to its success. To that end, Unitex/GramLab project decision making must be done in a transparent, open fashion. No decisions about the project's direction, bug fixes or features may be done without community involvement and participation. Discussions must begin at the earliest possible point on a topic; the community’s participation is vital during the entire decision-making process.
-
-### Unitex/GramLab Project License
-
-* Core (Unitex) and IDE (GramLab) components are distributed under the terms of the GNU Lesser General Public License, version 2.1 [LGPLv2][LGPLv2], which itself incorporates the terms and conditions of the GNU General Public License.
-
-* Linguistic Resources are distributed under the terms of the Lesser General Public License For Linguistic Resources [LGPL-LR][LGPL-LR].
-
-* Unitex/GramLab includes copyrighted third-party libraries licensed either under the terms of the Apache Software License Version 1.1, or  under the terms of the [BSD 2-Clause][BSD-2-Clause] License ("BSD License"). All  third-party packages are copyright by their respective authors.
 
 ### About this document
 
