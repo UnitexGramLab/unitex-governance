@@ -70,16 +70,16 @@ Unitex/GramLab development is based on user consensus and open discussion betwee
   </tr>
   <tr align="center">
     <td colspan="2">Unitex/GramLab Sponsor</td>
-    <td>[Sponsor](unitexgramlab-sponsors)</td>
+    <td>[Sponsor](#unitexgramlab-sponsors)</td>
   </tr>
   <tr align="center">
     <td rowspan="2">Unitex/GramLab Management Committee Member</td>
     <td>Committee Member</td>
-    <td>Committee Member</td>
+    <td>[Committee Member](#committee-members)</td>
   </tr>
   <tr align="center">
     <td>Committee Chair</td>
-    <td>Project Leader</td>
+    <td>[Project Leader](#committee-chair)</td>
   </tr>
 </table>
 
