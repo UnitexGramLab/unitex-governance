@@ -65,8 +65,8 @@ Unitex/GramLab development is based on user consensus and open discussion betwee
     <td>[Contributor](#non-coding-contributors)</td>
   </tr>
   <tr align="center">
-    <td colspan="2">Unitex/GramLab Commiter</td>
-    <td>[Commiter](#unitexgramlab-commiters)</td>
+    <td colspan="2">Unitex/GramLab Committer</td>
+    <td>[Committer](#unitexgramlab-committers)</td>
   </tr>
   <tr align="center">
     <td colspan="2">Unitex/GramLab Sponsor</td>
@@ -129,7 +129,7 @@ The [documentation for developers](https://github.com//UnitexGramLab/unitex-doc-
 
 ###### Become a Non-Coding Contributor
 
-#### Unitex/GramLab Commiters
+#### Unitex/GramLab Committers
 
 Unitex/GramLab Committers are contributors who have shown dedication to the project, i.e. providing valuable contribution over a period of time, have a deep understanding of the code base and project strategy and work well with contributors and users. Committers have no more authorities than contributors, and they should engage with the community through the [developer mailing list][devel] or the [users forum][forum] regarding their intention. However committers have earn enough trust from the community to have direct access to the project code base without having to submit pull request. Committers seeks approval after the contribution is made, rather than before. Therefor committers
 
@@ -139,9 +139,9 @@ Unitex/GramLab Committers are contributors who have shown dedication to the proj
 * Nominate and vote new committers.
 * Participate in the release planning.
 
-###### Become a Commiter
+###### Become a Committer
 
-You need to start being a Unitex/GramLab Contributor and be then be nominated as a Committer. Unitex/GramLab commiters select and elect new ones using the [Guidelines for assessing new candidates for committership][newcommitter] from the Apache Software Foundation.
+You need to start being a Unitex/GramLab Contributor and be then be nominated as a Committer. Unitex/GramLab committers select and elect new ones using the [Guidelines for assessing new candidates for committership][newcommitter] from the Apache Software Foundation.
 
 #### Unitex/GramLab Sponsors
 
