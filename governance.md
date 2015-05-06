@@ -149,22 +149,26 @@ Unitex/GramLab Sponsors are ...
 
 ###### Become a Sponsor
 
-#### Unitex/GramLab Project Management Committee
+#### Unitex/GramLab Management Committee
 
-The Unitex/GramLab Project Management Committee (U/G-PMC) has additional responsibilities over and above those of a committer or sponsor. These responsibilities ensure the smooth running of the project. His members do not have significant authority over other members of the community, although they make decisions when community consensus cannot be reached. Project Management Committee activities include:
+The Unitex/GramLab Management Committee (UGMC) has additional responsibilities over and above those of a committer or sponsor. These responsibilities ensure the smooth running of the project. Project Management Committee activities include:
 
 * Participate in strategic planning.
 * Approve changes to the governance model. 
 * Manage the copyrights within the project outputs.
 * Access to the project's private archives (They are never used for project management or planning. This include information about sensitive issues, and legal matters that cannot be discussed in public.)
 
-Membership of the U/G-PMC is by invitation from the existing members. A nomination will result in discussion and then a vote by the existing members. Membership votes are subject to consensus approval of the current members. 
+##### Committee Members
 
-##### Project Management Committee Chair
+The Unitex/GramLab Management Committee Members do not have significant authority over other members of the community, although they make decisions when community consensus cannot be reached. 
 
-The U/G-PMC Chair is a single committer and the project leader whom people interested in the project can consider the primary point of contact or first point of contact for the project. The chair is voted by the U/G-PMC members. Once someone has been appointed Chair, they remain in that role until they choose to retire, or the U/G-PMC casts a two-thirds majority vote to remove them.
+Membership of the UGMC is by invitation from the existing members. A nomination will result in discussion and then a vote by the existing members. Membership votes are subject to consensus approval of the current members.
 
-The U/G-PMC Chair has no additional authority over other members of the U/G-PMC: the role is one of coordinator and point of contact. The Chair is also expected to ensure that all governance processes are adhered to, and has the casting vote when the project fails to reach consensus. 
+##### Committee Chair
+
+The UGMC Chair is a single committer and the project leader whom people interested in the project can consider the primary point of contact or first point of contact for the project. The chair is voted by the members. Once someone has been appointed Chair, they remain in that role until they choose to retire, or the UGMC casts a two-thirds majority vote to remove them.
+
+The Chair has no additional authority over other members of the UGMC: the role is one of coordinator and point of contact. The Chair is also expected to ensure that all governance processes are adhered to, and has the casting vote when the project fails to reach consensus. 
 
 ### Decision Making Process 
 
