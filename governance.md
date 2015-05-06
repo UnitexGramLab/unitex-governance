@@ -52,6 +52,10 @@ Unitex/GramLab development is based on user consensus and open discussion betwee
      <td>[User](#unitexgramlab-users)</td>
   </tr>
   <tr align="center">
+    <td>Non-Coding Contributor</td>
+    <td>[Contributor](#non-coding-contributors)</td>
+  </tr>
+  <tr align="center">
     <td  rowspan="3">Unitex/GramLab Contributor</td>
     <td> Linguistic Resources Contributor</td>
     <td>[LR-Contributor](#linguistic-resources-contributors)</td>
@@ -59,11 +63,7 @@ Unitex/GramLab development is based on user consensus and open discussion betwee
   <tr align="center">
     <td>Coding Contributor</td>
     <td>[DEV-Contributor](#coding-contributors)</td>
-  </tr>
-  <tr align="center">
-    <td>Non-Coding Contributor</td>
-    <td>[Contributor](#non-coding-contributors)</td>
-  </tr>
+  </tr>  
   <tr align="center">
     <td colspan="2">Unitex/GramLab Committer</td>
     <td>[Committer](#unitexgramlab-committers)</td>
