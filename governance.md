@@ -12,7 +12,7 @@
 
 ### Overview
 
-[Unitex/GramLab][unitex] is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite. Project decision-making is based on a community meritocratic process, anyone with an interest in the project can join the community, contribute to the project design and participate in decisions. This document describes how that participation takes place and how to set about earning merit within the project community.
+[Unitex/GramLab][unitex] is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite. Project decision-making is based on a community meritocratic process, anyone with an interest in the project can join the Unitex/GramLab community, contribute to the project design and participate in decisions. This document describes how that participation takes place and how to set about earning merit within the project community.
 
 ### Background
 
