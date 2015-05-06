@@ -41,6 +41,51 @@ All participants in the Unitex/GramLab community are encouraged to provide suppo
 
 Unitex/GramLab development is based on user consensus and open discussion between users. In order to have a smoothly running project, formal roles with corresponding responsibilities are established. A member of the community may have multiple roles.
 
+ <table align="center">
+  <tr>
+    <th>Rol</th>
+    <th>Type</th>
+    <th>Code</th>
+  </tr>
+  <tr align="center">
+     <td colspan="2">Unitex/GramLab User</td>
+     <td>User</td>
+  </tr>
+  <tr align="center">
+    <td  rowspan="3">Unitex/GramLab Contributor</td>
+    <td> Linguistic Resources Contributor</td>
+    <td>LR-Contributor</td>
+  </tr>
+  <tr align="center">
+    <td>Coding Contributor</td>
+    <td>DEV-Contributor</td>
+  </tr>
+  <tr align="center">
+    <td>Non-Coding Contributor</td>
+    <td>Contributor</td>
+  </tr>
+  <tr align="center">
+    <td colspan="2">Unitex/GramLab Commiter</td>
+    <td>Commiter</td>
+  </tr>
+  <tr align="center">
+    <td colspan="2">Unitex/GramLab Sponsor</td>
+    <td>Sponsor</td>
+  </tr>
+  <tr align="center">
+    <td rowspan="2">Unitex/GramLab Management Committee Member</td>
+    <td>Committee Member</td>
+    <td>Committee Member</td>
+  </tr>
+  <tr align="center">
+    <td>Committee Chair</td>
+    <td>Project Leader</td>
+  </tr>
+</table> 
+
+
+
+
 #### Unitex/GramLab Users
 
 Unitex/GramLab users are community members who have a need for the project, they are the most important members of the community: through their usage, they give the project a purpose. Users should be encouraged to participate in the life of the project and the community as much as possible. User contributions enable the project team to ensure that they are satisfying the needs of those users. Common user activities include, but are not limited to:
