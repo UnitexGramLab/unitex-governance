@@ -118,7 +118,7 @@ The Unitex/GramLab Project Management Committee (U/G-PMC) has additional respons
 
 Membership of the U/G-PMC is by invitation from the existing members. A nomination will result in discussion and then a vote by the existing members. Membership votes are subject to consensus approval of the current members. 
 
-##### Unitex/GramLab Project Management Committee Chair
+##### Project Management Committee Chair
 
 The U/G-PMC Chair is a single committer and the project leader whom people interested in the project can consider the primary point of contact or first point of contact for the project. The chair is voted by the U/G-PMC members. Once someone has been appointed Chair, they remain in that role until they choose to retire, or the U/G-PMC casts a two-thirds majority vote to remove them.
 
