@@ -43,7 +43,7 @@ Unitex/GramLab development is based on user consensus and open discussion betwee
 
  <table align="center">
   <tr>
-    <th>Rol</th>
+    <th>Role</th>
     <th>Type</th>
     <th>Name</th>
   </tr>
