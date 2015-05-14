@@ -31,7 +31,7 @@
 
 * Linguistic Resources are distributed under the terms of the Lesser General Public License For Linguistic Resources [LGPL-LR][LGPL-LR].
 
-* Unitex/GramLab includes copyrighted third-party libraries licensed either under the terms of the Apache Software License Version 1.1, or  under the terms of the [BSD 2-Clause][BSD-2-Clause] License ("BSD License"). All  third-party packages are copyright by their respective authors.
+* Unitex/GramLab includes copyrighted third-party libraries licensed under the terms of the [Apache Software License Version 1.1][Apache-1.1] ("Apache-1.1"), the [BSD 2-Clause][BSD-2-Clause] License ("BSD License"), and the [MIT License][MIT] ("MIT"). All  third-party packages are copyright by their respective authors.
 
 #### Getting support
 
@@ -214,9 +214,11 @@ Copyright (C) 2014-2015 Université Paris-Est Marne-la-Vallée
 [devel]:        mailto:unitex-devel@univ-mlv.fr
 [tutorials]:    https://github.com/UnitexGramLab/unitex-doc-tutorials
 [bugs]:         http://www-igm.univ-mlv.fr/~unitex/index.php?page=6
-[LGPL-LR]:      http://bit.do/LGPL-LR
-[LGPLv2]:       http://opensource.org/licenses/lgpl-2.1
-[BSD-2-Clause]: http://opensource.org/licenses/BSD-2-Clause
 [newcommitter]: https://community.apache.org/newcommitter.html
 [makedecision]: http://community.apache.org/committers/decisionMaking.html
 
+[Apache-1.1]:   http://opensource.org/licenses/apachepl-1.1
+[BSD-2-Clause]: http://opensource.org/licenses/BSD-2-Clause
+[MIT]:          http://opensource.org/licenses/MIT
+[LGPL-LR]:      http://bit.do/LGPL-LR
+[LGPLv2]:       http://opensource.org/licenses/lgpl-2.1
