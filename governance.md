@@ -27,11 +27,13 @@
 
 #### Project License
 
-* Core (Unitex) and IDE (GramLab) components are distributed under the terms of the GNU Lesser General Public License, version 2.1 [LGPLv2][LGPLv2], which itself incorporates the terms and conditions of the GNU General Public License.
+* The Unitex/GramLab programs, libraries and source codes are distributed under the terms of the [GNU Lesser General Public License version 2.1][LGPLv2] ("LGPLv2"), which itself incorporates the terms and conditions of the GNU General Public License.
 
-* Linguistic Resources are distributed under the terms of the Lesser General Public License For Linguistic Resources [LGPL-LR][LGPL-LR].
+* Linguistic Resources are distributed under the terms of the [Lesser General Public License For Linguistic Resources][LGPL-LR] ("LGPL-LR").
 
-* Unitex/GramLab includes copyrighted third-party libraries licensed under the terms of the [Apache Software License Version 1.1][Apache-1.1] ("Apache-1.1"), the [BSD 2-Clause][BSD-2-Clause] License ("BSD License"), and the [MIT License][MIT] ("MIT"). All  third-party packages are copyright by their respective authors.
+* Documentation is licensed under the terms of the [GNU Free Documentation License version 1.3][GFDL] ("GFDL"), as published by the Free Software Foundation.
+
+* Unitex/GramLab includes copyrighted third-party libraries licensed under the terms of the [Apache Software License version 1.1][Apache-1.1] ("Apache-1.1"), the [BSD 2-Clause License][BSD-2-Clause] ("BSD License"), and the [MIT License][MIT] ("MIT"). All  third-party packages are copyright by their respective authors.
 
 #### Getting support
 
@@ -219,6 +221,7 @@ Copyright (C) 2014-2015 Université Paris-Est Marne-la-Vallée
 
 [Apache-1.1]:   http://opensource.org/licenses/apachepl-1.1
 [BSD-2-Clause]: http://opensource.org/licenses/BSD-2-Clause
+[GFDL]:         http://www.gnu.org/licenses/fdl-1.3.txt
 [MIT]:          http://opensource.org/licenses/MIT
 [LGPL-LR]:      http://bit.do/LGPL-LR
 [LGPLv2]:       http://opensource.org/licenses/lgpl-2.1
