@@ -27,7 +27,7 @@
 
 #### Project License
 
-* The Unitex/GramLab programs, libraries and source codes are distributed under the terms of the [GNU Lesser General Public License version 2.1][LGPLv2] ("LGPLv2"), which itself incorporates the terms and conditions of the GNU General Public License.
+* All Unitex/GramLab programs, libraries and source codes are distributed under the terms of the [GNU Lesser General Public License version 2.1][LGPLv2] ("LGPLv2"), which itself incorporates the terms and conditions of the GNU General Public License.
 
 * Linguistic Resources are distributed under the terms of the [Lesser General Public License For Linguistic Resources][LGPL-LR] ("LGPL-LR").
 
