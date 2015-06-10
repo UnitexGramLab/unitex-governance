@@ -177,15 +177,15 @@ The Chair has no additional authority over other members of the UGMC: the role i
 
 From a practical point of view, the direction that the project takes is controlled by the contributors, not the users, unless they're contributors too. Development is made based on contributors and committers donating their time to the community. In order to ensure that the project is not bogged down by endless discussion and continual voting, the project operates using the [Apache Decision Making][makedecision] process. This allows the majority of decisions to be made without resorting to a formal vote.
 
-#### Lazy Concensus
+#### Lazy Consensus
 
-[Lazy consensus](http://community.apache.org/committers/lazyConsensus.html) is a very important concept within the project. It is this process that allows a large group of people to efficiently reach consensus, as someone with no objections to a proposal need not spend time stating their position, and others need not spend time reading such mails. For lazy consensus to be effective, it is necessary to allow at least 72 hours before assuming that there are no objections to the proposal. This requirement ensures that everyone is given enough time to read, digest and respond to the proposal. This time period is chosen so as to be as inclusive as possible of all participants, regardless of their location and time commitments. In all cases silence is consent.
+[Lazy Consensus](http://community.apache.org/committers/lazyConsensus.html) is a very important concept within the project. It is this process that allows a large group of people to efficiently reach consensus, as someone with no objections to a proposal need not spend time stating their position, and others need not spend time reading such mails. For lazy consensus to be effective, it is necessary to allow at least 72 hours before assuming that there are no objections to the proposal. This requirement ensures that everyone is given enough time to read, digest and respond to the proposal. This time period is chosen so as to be as inclusive as possible of all participants, regardless of their location and time commitments. In all cases silence is consent.
 
 The lazy consensus is used for most the contribution ranging from bug fixes to minor changes where the contributor assume to have the support of the community to tackle the issue.
 
 #### Voting
 
-Not all decisions can be made using lazy consensus. If you feel that lazy consensus isn't appropriate for your proposal, you can explicitly request for feedback on the [developer mailing list][devel]. [Building concensus](http://community.apache.org/committers/consensusBuilding.html) help contributors and committers to gather feedback early on and pool the interest by the community for a new feature.
+Not all decisions can be made using lazy consensus. If you feel that lazy consensus isn't appropriate for your proposal, you can explicitly request for feedback on the [developer mailing list][devel]. [Building consensus](http://community.apache.org/committers/consensusBuilding.html) help contributors and committers to gather feedback early on and pool the interest by the community for a new feature.
 
 Contributors are invited to express their opinion of any given feature or pull request. Support is expressed using:
 
