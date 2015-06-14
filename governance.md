@@ -6,10 +6,10 @@
 
 ### History
 
-| Version    | User              | Description                                                                   |
-| :--------: | ----------------- | ----------------------------------------------------------------------------- |
-| 0.1.0      | martinec          | First draft                                                                   |
-| 0.1.1      | martinec          | Improved information  about licenses                                          |
+| Date     | Version    | User              | Description                                                         |
+| :------: | :--------: | ----------------- | ------------------------------------------------------------------- |
+| 05/05/15 | 0.1.0      | martinec          | First draft                                                         |
+| 05/06/15 | 0.1.1      | martinec          | Improved information  about licenses                                |
 
 ### Overview
 
