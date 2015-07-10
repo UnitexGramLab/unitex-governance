@@ -109,6 +109,7 @@ Unitex/GramLab Contributors are community members who contribute in concrete way
 * Helping maintain existing linguistic resources.
 * Submitting patches to fix bugs or add features.
 * Identifying requirements.
+* Participating in the community's activities.
 
 #### Unitex/GramLab Committer
 
@@ -127,6 +128,8 @@ Unitex/GramLab Committers are contributors who have shown dedication to the proj
 
 ###### Become a Linguistic Resources Commiter
 
+You need to start being a Unitex/GramLab Contributor and be then be nominated as a Linguistic Resources Commiter. Unitex/GramLab committers select and elect new ones using the [Guidelines for assessing new candidates for committership][newcommitter] from the Apache Software Foundation.
+
 ##### Coding Commiter
 [DEV-Commiter]
 
@@ -135,21 +138,15 @@ Unitex/GramLab Committers are contributors who have shown dedication to the proj
 
 ###### Become a Coding Commiter
 
-The [documentation for developers](https://github.com//UnitexGramLab/unitex-doc-devel) is a good place to start getting familiar with the coding style and documentation guidelines. We invite contributors to share their feature development and patch idea through the [developer mailing list][devel] or the [users forum][forum]. It is recommended to start with small patches and share your code early so the existing committers (see next section) can provide feedback and guidance.
+The [documentation for developers](https://github.com//UnitexGramLab/unitex-doc-devel) is a good place to start getting familiar with the coding style and documentation guidelines. We invite contributors to share their feature development and patch idea through the [developer mailing list][devel] or the [users forum][forum]. It is recommended to start with small patches and share your code early so the existing committers can provide feedback and guidance.
 
 ##### Non-Coding Commiter
 
 [Non-code contributions](https://modelviewculture.com/pieces/non-coding-contributors-in-open-source) ([Commiter]) are incredibly valuable and very welcome,  Here are some examples of simple ways to contribute:
 
 * Writing and maintaining the documentation (e.g. [tutorials][tutorials])
-* Participate in the community's activities.
 
 ###### Become a Non-Coding Commiter
-
-
-###### Become a Committer
-
-You need to start being a Unitex/GramLab Contributor and be then be nominated as a Committer. Unitex/GramLab committers select and elect new ones using the [Guidelines for assessing new candidates for committership][newcommitter] from the Apache Software Foundation.
 
 #### Unitex/GramLab Sponsor
 
