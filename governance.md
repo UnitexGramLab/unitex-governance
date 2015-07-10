@@ -183,7 +183,7 @@ From a practical point of view, the direction that the project takes is controll
 
 The lazy consensus is used for most the contribution ranging from bug fixes to minor changes where the contributor assume to have the support of the community to tackle the issue.
 
-#### Voting
+#### Building consensus
 
 Not all decisions can be made using lazy consensus. If you feel that lazy consensus isn't appropriate for your proposal, you can explicitly request for feedback on the [developer mailing list][devel]. [Building consensus](http://community.apache.org/committers/consensusBuilding.html) help contributors and committers to gather feedback early on and pool the interest by the community for a new feature.
 
