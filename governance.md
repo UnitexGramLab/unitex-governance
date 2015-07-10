@@ -189,14 +189,14 @@ Not all decisions can be made using lazy consensus. If you feel that lazy consen
 
 Contributors are invited to express their opinion of any given feature or pull request. Support is expressed using:
 
-| Value | Meaning                                                                                                    |
-| :---: |:---------------------------------------------------------------------------------------------------------- |
-| +1    | I agree with this and will help make it happen                                                             |
-| +0.9  | This is a cool idea and i like it, but I don't have time/the skills necessary to help out                  |
-| +0    | I agree with this but probably won't make it happen, so my opinion is not that important                   |
-| -0    | I don't agree with this, but I'm offering no alternative so my opinion is not that important               |
-| -0.9  | I really don't like this, but I'm not going to stand in the way if everyone else wants to go ahead with it |
-| -1    | I don't agree and I am offering an alternative that I am able to help implement                            |
+| Value | Meaning                                        | Signifié                                                  |
+| :---: |:-----------------------------------------------|:--------------------------------------------------------- |
+| +1    | I agree with this and will help make it happen | Je suis d'accord, je peux aider si besoin            |
+| +0.9  | This is a cool idea and i like it, but I don't have time/the skills necessary to help out | Je suis d'accord, mais je n'ai pas le temps / les compétences nécessaires pour aider                  |
+| +0    | I agree with this but probably won't make it happen, so my opinion is not that important | Je suis d'accord, mais ceci n'arrivera pas, donc mon avis n'est pas si important   |
+| -0    | I don't agree with this, but I'm offering no alternative so my opinion is not that important | Je ne suis pas d'accord, mais je ne propose pas une alternative, donc mon avis n'est pas si important            |
+| -0.9  | I really don't like this, but I'm not going to stand in the way if everyone else wants to go ahead with it  | Je ne suis pas d'accord, mais je ne vais pas m'y opposer si tous les autres sont d'accord |
+| -1    | I don't agree and I am offering an alternative that I am able to help implement | Je ne suis pas d'accord, je vous offre une alternative que je vais aider à mettre en place                           |
 
 #### Transparency
 
