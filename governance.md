@@ -9,7 +9,9 @@
 | Date     | Version    | User              | Description                                                         |
 | :------: | :--------: | ----------------- | ------------------------------------------------------------------- |
 | 05/05/15 | 0.1.0      | martinec          | First draft                                                         |
-| 05/06/15 | 0.1.1      | martinec          | Improved information  about licenses                                |
+| 05/06/15 | 0.1.1      | martinec          | Improve information about licenses                                  |
+| 11/07/15 | 0.1.2      | martinec          | Fix information about committers                                    |
+
 
 ### Overview
 
