@@ -52,33 +52,33 @@ Unitex/GramLab development is based on user consensus and open discussion betwee
   </tr>
   <tr align="center">
      <td colspan="2">Unitex/GramLab User</td>
-     <td>[User](#unitexgramlab-users)</td>
+     <td>[User](#unitexgramlab-user)</td>
   </tr>
   <tr align="center">
-    <td  rowspan="3">Unitex/GramLab Contributor</td>
-    <td>Non-Coding Contributor</td>
-    <td>[Contributor](#non-coding-contributors)</td>
+    <td colspan="2">Unitex/GramLab Contributor</td>
+    <td>[Contributor](#unitexgramlab-contributor)</td>
   </tr>
   <tr align="center">
-    <td> Linguistic Resources Contributor</td>
-    <td>[LR-Contributor](#linguistic-resources-contributors)</td>
+    <td  rowspan="3">Unitex/GramLab Commiter</td>
+    <td>Non-Coding Commiter</td>
+    <td>[Commiter](#non-coding-commiter)</td>
   </tr>
   <tr align="center">
-    <td>Coding Contributor</td>
-    <td>[DEV-Contributor](#coding-contributors)</td>
-  </tr>  
+    <td> Linguistic Resources Commiter</td>
+    <td>[LR-Commiter](#linguistic-resources-commiter)</td>
+  </tr>
   <tr align="center">
-    <td colspan="2">Unitex/GramLab Committer</td>
-    <td>[Committer](#unitexgramlab-committers)</td>
+    <td>Coding Commiter</td>
+    <td>[DEV-Commiter](#coding-commiter)</td>
   </tr>
   <tr align="center">
     <td colspan="2">Unitex/GramLab Sponsor</td>
-    <td>[Sponsor](#unitexgramlab-sponsors)</td>
+    <td>[Sponsor](#unitexgramlab-sponsor)</td>
   </tr>
   <tr align="center">
     <td rowspan="2">Unitex/GramLab Management Committee Member</td>
     <td>Committee Member</td>
-    <td>[Committee Member](#committee-members)</td>
+    <td>[Committee Member](#committee-member)</td>
   </tr>
   <tr align="center">
     <td>Committee Chair</td>
@@ -86,7 +86,7 @@ Unitex/GramLab development is based on user consensus and open discussion betwee
   </tr>
 </table>
 
-#### Unitex/GramLab Users
+#### Unitex/GramLab User
 
 Unitex/GramLab users are community members who have a need for the project, they are the most important members of the community: through their usage, they give the project a purpose. Users should be encouraged to participate in the life of the project and the community as much as possible. User contributions enable the project team to ensure that they are satisfying the needs of those users. Common user activities include, but are not limited to:
 
@@ -100,41 +100,17 @@ Unitex/GramLab users are community members who have a need for the project, they
 
 Anyone can be a user; there are no special requirements. Users who continue to engage with the project and the community will often find themselves becoming more and more involved. Such users may then go on to become Unitex/GramLab Contributors, as described below.
 
-#### Unitex/GramLab Contributors
+#### Unitex/GramLab Contributor
 
 Unitex/GramLab Contributors are community members who contribute in concrete ways to the project. Contribution may be a one time participation or occur over time. Contribution can take place in many specific ways:
 
-##### Linguistic Resources Contributors
-[LR-contributor]
-
-* Contributing new linguistic resources and helping maintain existing ones.
-
-###### Become a Linguistic Resources Contributor
-
-##### Coding Contributors
-[DEV-Contributor]
-
-* Adding features.
+* Helping maintain existing linguistic resources.
 * Submitting patches to fix bugs or add features.
 * Identifying requirements.
-* Assisting with project infrastructure.
 
-###### Become a Coding Contributor
+#### Unitex/GramLab Committer
 
-The [documentation for developers](https://github.com//UnitexGramLab/unitex-doc-devel) is a good place to start getting familiar with the coding style and documentation guidelines. We invite contributors to share their feature development and patch idea through the [developer mailing list][devel] or the [users forum][forum]. It is recommended to start with small patches and share your code early so the existing committers (see next section) can provide feedback and guidance.
-
-##### Non-Coding Contributors
-
-[Non-code contributions](https://modelviewculture.com/pieces/non-coding-contributors-in-open-source) ([Contributor]) are incredibly valuable and very welcome,  Here are some examples of simple ways to contribute:
-
-* Writing and maintaining the documentation (e.g. [tutorials][tutorials])
-* Participate in the community's activities.
-
-###### Become a Non-Coding Contributor
-
-#### Unitex/GramLab Committers
-
-Unitex/GramLab Committers are contributors who have shown dedication to the project, i.e. providing valuable contribution over a period of time, have a deep understanding of the code base and project strategy and work well with contributors and users. Committers have no more authorities than contributors, and they should engage with the community through the [developer mailing list][devel] or the [users forum][forum] regarding their intention. However committers have earn enough trust from the community to have direct access to the project code base without having to submit pull request. Committers seeks approval after the contribution is made, rather than before. Therefor committers
+Unitex/GramLab Committers are contributors who have shown dedication to the project, i.e. providing valuable contribution over a period of time, have a deep understanding of the code base and project strategy and work well with contributors and users. Committers have no more authorities than contributors, and they should engage with the community through the [developer mailing list][devel] or the [users forum][forum] regarding their intention. However committers have earn enough trust from the community to have direct access to the project code base without having to submit pull requests. Committers seeks approval after the contribution is made, rather than before. Therefor committers:
 
 * Help contributors via the [developer mailing list][devel].
 * Merge pull request submit by contributors.
@@ -142,11 +118,38 @@ Unitex/GramLab Committers are contributors who have shown dedication to the proj
 * Nominate and vote new committers.
 * Participate in the release planning.
 
+##### Linguistic Resources Commiter
+[LR-contributor]
+
+* Contributing to new linguistic resources and helping maintain existing ones.
+
+###### Become a Linguistic Resources Commiter
+
+##### Coding Commiter
+[DEV-Commiter]
+
+* Adding features.
+* Assisting with project infrastructure.
+
+###### Become a Coding Commiter
+
+The [documentation for developers](https://github.com//UnitexGramLab/unitex-doc-devel) is a good place to start getting familiar with the coding style and documentation guidelines. We invite contributors to share their feature development and patch idea through the [developer mailing list][devel] or the [users forum][forum]. It is recommended to start with small patches and share your code early so the existing committers (see next section) can provide feedback and guidance.
+
+##### Non-Coding Commiter
+
+[Non-code contributions](https://modelviewculture.com/pieces/non-coding-contributors-in-open-source) ([Commiter]) are incredibly valuable and very welcome,  Here are some examples of simple ways to contribute:
+
+* Writing and maintaining the documentation (e.g. [tutorials][tutorials])
+* Participate in the community's activities.
+
+###### Become a Non-Coding Commiter
+
+
 ###### Become a Committer
 
 You need to start being a Unitex/GramLab Contributor and be then be nominated as a Committer. Unitex/GramLab committers select and elect new ones using the [Guidelines for assessing new candidates for committership][newcommitter] from the Apache Software Foundation.
 
-#### Unitex/GramLab Sponsors
+#### Unitex/GramLab Sponsor
 
 Unitex/GramLab Sponsors are ...
 
@@ -161,7 +164,7 @@ The Unitex/GramLab Management Committee (UGMC) has additional responsibilities o
 * Manage the copyrights within the project outputs.
 * Access to the project's private archives (They are never used for project management or planning. This include information about sensitive issues, and legal matters that cannot be discussed in public.)
 
-##### Committee Members
+##### Committee Member
 
 The Unitex/GramLab Management Committee Members do not have significant authority over other members of the community, although they make decisions when community consensus cannot be reached. 
 
