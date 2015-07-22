@@ -32,7 +32,7 @@
 
 * All Unitex/GramLab programs, libraries and source codes are distributed under the terms of the [GNU Lesser General Public License version 2.1][LGPLv2] (LGPLv2), which itself incorporates the terms and conditions of the GNU General Public License.
 
-* Linguistic Resources are distributed under the terms of the [Lesser General Public License For Linguistic Resources][LGPL-LR] (LGPL-LR).
+* Linguistic Resources are distributed under the terms of the [Lesser General Public License For Linguistic Resources][LGPLLR] (LGPLLR).
 
 * Documentation is licensed under the terms of the [GNU Free Documentation License version 1.3][GFDL] (GFDL), as published by the Free Software Foundation.
 
@@ -226,5 +226,5 @@ Copyright (C) 2014-2015 Université Paris-Est Marne-la-Vallée
 [BSD-2-Clause]: http://opensource.org/licenses/BSD-2-Clause
 [GFDL]:         http://www.gnu.org/licenses/fdl-1.3.txt
 [MIT]:          http://opensource.org/licenses/MIT
-[LGPL-LR]:      http://bit.do/LGPL-LR
+[LGPLLR]:       http://spdx.org/licenses/LGPLLR
 [LGPLv2]:       http://opensource.org/licenses/lgpl-2.1
