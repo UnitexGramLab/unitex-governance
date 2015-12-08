@@ -22,11 +22,12 @@
 #### Project Infrastructure
 
 | Name                    | Link                             |
-| ----------------------- | -------------------------------- |
-| Main website            | http://unitexgramlab.org         |
-| Users forum             | http://forum.unitexgramlab.org   |
-| Developers mailing list | unitex-devel@univ-mlv.fr         |
-| Code hosting            | https://github.com/UnitexGramLab |
+| ----------------------- | -------------------------------------|
+| Main website            | http://unitexgramlab.org             |
+| Users forum             | http://forum.unitexgramlab.org       |
+| Developers mailing list | unitex-devel@univ-mlv.fr             |
+| Code hosting            | http://code.unitexgramlab.org        |
+| Governance              | http://governance.unitexgramlab.org  |
 
 #### Project License
 
