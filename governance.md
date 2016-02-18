@@ -11,6 +11,7 @@
 | 05/05/15 | 0.1.0      | martinec          | First draft                                                         |
 | 05/06/15 | 0.1.1      | martinec          | Improve information about licenses                                  |
 | 11/07/15 | 0.1.2      | martinec          | Fix information about committers                                    |
+| 18/02/16 | 0.1.2      | martinec          | Add some missing links                                              |
 
 
 ### Overview
@@ -21,13 +22,15 @@
 
 #### Project Infrastructure
 
-| Name                    | Link                             |
-| ----------------------- | -------------------------------------|
-| Main website            | http://unitexgramlab.org             |
-| Users forum             | http://forum.unitexgramlab.org       |
-| Developers mailing list | unitex-devel@univ-mlv.fr             |
-| Code hosting            | http://code.unitexgramlab.org        |
-| Governance              | http://governance.unitexgramlab.org  |
+| Name                     | Link                                          |
+| -------------------------| ----------------------------------------------|
+| Main website             | http://unitexgramlab.org                      |
+| Binary releases          | http://releases.unitexgramlab.org             |
+| Users forum              | http://forum.unitexgramlab.org                |
+| Developers mailing list  | unitex-devel@univ-mlv.fr                      |
+| Code hosting (old)       | https://gforgeigm.univ-mlv.fr/projects/unitex |
+| Code hosting (migrating) | http://code.unitexgramlab.org                 |
+| Governance               | http://governance.unitexgramlab.org           |
 
 #### Project License
 
