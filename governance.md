@@ -28,7 +28,7 @@
 | Binary releases          | http://releases.unitexgramlab.org             |
 | Users forum              | http://forum.unitexgramlab.org                |
 | Developers mailing list  | unitex-devel@univ-mlv.fr                      |
-| Code hosting (old)       | https://gforgeigm.univ-mlv.fr/projects/unitex |
+| Code hosting (legacy)    | https://gforgeigm.univ-mlv.fr/projects/unitex |
 | Code hosting (migrating) | http://code.unitexgramlab.org                 |
 | Governance               | http://governance.unitexgramlab.org           |
 
