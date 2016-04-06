@@ -12,6 +12,7 @@
 | 05/06/15 | 0.1.1      | martinec          | Improve information about licenses                                  |
 | 11/07/15 | 0.1.2      | martinec          | Fix information about committers                                    |
 | 18/02/16 | 0.1.2      | martinec          | Add some missing links                                              |
+| 06/04/16 | 0.1.3      | martinec          | Unitex/GramLab adheres to the Contributor Covenant code of conduct  |
 
 
 ### Overview
@@ -41,6 +42,10 @@
 * Documentation is licensed under the terms of the [GNU Free Documentation License version 1.3][GFDL] (GFDL), as published by the Free Software Foundation.
 
 * Unitex/GramLab includes copyrighted third-party libraries licensed under the terms of the [Apache Software License version 2.0][Apache-2.0] (Apache-2.0), the [BSD 2-Clause License][BSD-2-Clause] (BSD License), and the [MIT License][MIT] (MIT). All  third-party packages are copyright by their respective authors.
+
+#### Project Code of Conduct
+
+Unitex/GramLab is intended to be a safe, welcoming space for collaboration. All contributors and participants are expected to adhere to the [Contributor Covenant version 1.4](http://contributor-covenant.org/version/1/4/code_of_conduct.md) code of conduct. To report violations, send an email to unitex-devel@univ-mlv.fr.
 
 #### Getting support
 
