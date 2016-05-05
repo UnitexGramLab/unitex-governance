@@ -30,7 +30,7 @@
 | Users forum              | http://forum.unitexgramlab.org                |
 | Developers mailing list  | unitex-devel@univ-mlv.fr                      |
 | Code hosting (legacy)    | https://gforgeigm.univ-mlv.fr/projects/unitex |
-| Code hosting (migrating) | http://code.unitexgramlab.org                 |
+| Code hosting (current)   | http://code.unitexgramlab.org                 |
 | Governance               | http://governance.unitexgramlab.org           |
 
 #### Project License
