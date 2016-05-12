@@ -23,15 +23,16 @@
 
 #### Project Infrastructure
 
-| Name                     | Link                                          |
-| -------------------------| ----------------------------------------------|
-| Main website             | http://unitexgramlab.org                      |
-| Binary releases          | http://releases.unitexgramlab.org             |
-| Users forum              | http://forum.unitexgramlab.org                |
-| Developers mailing list  | unitex-devel@univ-mlv.fr                      |
-| Code hosting (legacy)    | https://gforgeigm.univ-mlv.fr/projects/unitex |
-| Code hosting (current)   | http://code.unitexgramlab.org                 |
-| Governance               | http://governance.unitexgramlab.org           |
+| Name                     | Link                                                                        |
+| -------------------------| ----------------------------------------------------------------------------|
+| Main website             | http://unitexgramlab.org                                                    |
+| Binary releases          | http://releases.unitexgramlab.org                                           |
+| User's forum             | http://forum.unitexgramlab.org ([request to join]( https://goo.gl/tHTGR7))  |
+| Developers chat          | http://chat.unitexgramlab.org  ([request to join]( https://goo.gl/tHTGR7))  |
+| Developers mailing list  | unitex-devel@univ-mlv.fr                                                    |
+| Code hosting (legacy)    | https://gforgeigm.univ-mlv.fr/projects/unitex                               |
+| Code hosting (active)    | http://code.unitexgramlab.org                                               |
+| Governance               | http://governance.unitexgramlab.org                                         |
 
 #### Project License
 
