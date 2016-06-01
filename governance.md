@@ -73,7 +73,7 @@ Unitex/GramLab development is based on user consensus and open discussion betwee
   <tr align="center">
     <td  rowspan="3">Unitex/GramLab Intern</td>
     <td>Language Resources Intern</td>
-    <td>[lingua-intern](#language-resources-committer)</td>
+    <td>[lingua-intern](#language-resources-intern)</td>
   </tr>
   <tr align="center">
     <td>Unitex Core Intern</td>
@@ -81,7 +81,7 @@ Unitex/GramLab development is based on user consensus and open discussion betwee
   </tr>
   <tr align="center">
     <td>GramLab IDE Intern</td>
-    <td>[ide-committer](#ide-intern)</td>
+    <td>[ide-intern](#ide-intern)</td>
   </tr>    
   <tr align="center">
     <td  rowspan="4">Unitex/GramLab Committer</td>
