@@ -13,7 +13,7 @@
 | 11/07/15 | 0.1.2      | martinec          | Fix information about committers                                    |
 | 18/02/16 | 0.1.2      | martinec          | Add some missing links                                              |
 | 06/04/16 | 0.1.3      | martinec          | Unitex/GramLab adheres to the Contributor Covenant code of conduct  |
-
+| 01/06/16 | 0.1.4      | martinec          | Add Unitex/GramLab interns' roles                                   |
 
 ### Overview
 
