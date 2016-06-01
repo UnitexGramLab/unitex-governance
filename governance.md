@@ -34,7 +34,7 @@
 | Code hosting (active)    | http://code.unitexgramlab.org                                               |
 | Governance               | http://governance.unitexgramlab.org                                         |
 
-#### Project License
+#### License
 
 * All Unitex/GramLab programs, libraries and source codes are distributed under the terms of the [GNU Lesser General Public License version 2.1][LGPLv2] (LGPLv2), which itself incorporates the terms and conditions of the GNU General Public License.
 
@@ -44,7 +44,7 @@
 
 * Unitex/GramLab includes copyrighted third-party libraries licensed under the terms of the [Apache Software License version 2.0][Apache-2.0] (Apache-2.0), the [BSD 2-Clause License][BSD-2-Clause] (BSD License), and the [MIT License][MIT] (MIT). All  third-party packages are copyright by their respective authors.
 
-#### Project Code of Conduct
+#### Code of Conduct
 
 Unitex/GramLab is intended to be a safe, welcoming space for collaboration. All contributors and participants are expected to adhere to the [Contributor Covenant version 1.4](http://contributor-covenant.org/version/1/4/code_of_conduct.md) code of conduct. To report violations, send an email to unitex-devel@univ-mlv.fr.
 
