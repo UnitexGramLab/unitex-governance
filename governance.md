@@ -56,45 +56,62 @@ All participants in the Unitex/GramLab community are encouraged to provide suppo
 
 Unitex/GramLab development is based on user consensus and open discussion between users. In order to have a smoothly running project, formal roles with corresponding responsibilities are established. A member of the community may have multiple roles.
 
- <table align="center">
+<table align="center">
   <tr>
     <th>Role</th>
     <th>Type</th>
-    <th>Name</th>
+    <th>ID</th>
   </tr>
   <tr align="center">
      <td colspan="2">Unitex/GramLab User</td>
-     <td>[User](#unitexgramlab-user)</td>
+     <td>[user](#unitexgramlab-user)</td>
   </tr>
   <tr align="center">
     <td colspan="2">Unitex/GramLab Contributor</td>
-    <td>[Contributor](#unitexgramlab-contributor)</td>
+    <td>[contributor](#unitexgramlab-contributor)</td>
   </tr>
   <tr align="center">
-    <td  rowspan="3">Unitex/GramLab Committer</td>
+    <td  rowspan="3">Unitex/GramLab Intern</td>
+    <td>Language Resources Intern</td>
+    <td>[lingua-intern](#language-resources-committer)</td>
+  </tr>
+  <tr align="center">
+    <td>Unitex Core Intern</td>
+    <td>[core-intern](#core-intern)</td>
+  </tr>
+  <tr align="center">
+    <td>GramLab IDE Intern</td>
+    <td>[ide-committer](#ide-intern)</td>
+  </tr>    
+  <tr align="center">
+    <td  rowspan="4">Unitex/GramLab Committer</td>
     <td>Non-Coding Committer</td>
-    <td>[Committer](#non-coding-committer)</td>
+    <td>[committer](#non-coding-committer)</td>
   </tr>
   <tr align="center">
-    <td> Linguistic Resources Committer</td>
-    <td>[LR-Committer](#linguistic-resources-committer)</td>
+    <td> Language Resources Committer</td>
+    <td>[lingua-committer](#language-resources-committer)</td>
   </tr>
   <tr align="center">
-    <td>Coding Committer</td>
-    <td>[DEV-Committer](#coding-committer)</td>
+    <td>Unitex Core Committer</td>
+    <td>[core-committer](#core-committer)</td>
+  </tr>
+  <tr align="center">
+    <td>GramLab IDE Committer</td>
+    <td>[ide-committer](#ide-committer)</td>
   </tr>
   <tr align="center">
     <td colspan="2">Unitex/GramLab Sponsor</td>
-    <td>[Sponsor](#unitexgramlab-sponsor)</td>
+    <td>[sponsor](#unitexgramlab-sponsor)</td>
   </tr>
   <tr align="center">
     <td rowspan="2">Unitex/GramLab Management Committee Member</td>
     <td>Committee Member</td>
-    <td>[Committee Member](#committee-member)</td>
+    <td>[committee-member](#committee-member)</td>
   </tr>
   <tr align="center">
     <td>Committee Chair</td>
-    <td>[Project Leader](#committee-chair)</td>
+    <td>[project-leader](#committee-chair)</td>
   </tr>
 </table>
 
