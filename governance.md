@@ -71,17 +71,17 @@ Unitex/GramLab development is based on user consensus and open discussion betwee
     <td>[Contributor](#unitexgramlab-contributor)</td>
   </tr>
   <tr align="center">
-    <td  rowspan="3">Unitex/GramLab Commiter</td>
-    <td>Non-Coding Commiter</td>
-    <td>[Commiter](#non-coding-commiter)</td>
+    <td  rowspan="3">Unitex/GramLab Committer</td>
+    <td>Non-Coding Committer</td>
+    <td>[Committer](#non-coding-committer)</td>
   </tr>
   <tr align="center">
-    <td> Linguistic Resources Commiter</td>
-    <td>[LR-Commiter](#linguistic-resources-commiter)</td>
+    <td> Linguistic Resources Committer</td>
+    <td>[LR-Committer](#linguistic-resources-committer)</td>
   </tr>
   <tr align="center">
-    <td>Coding Commiter</td>
-    <td>[DEV-Commiter](#coding-commiter)</td>
+    <td>Coding Committer</td>
+    <td>[DEV-Committer](#coding-committer)</td>
   </tr>
   <tr align="center">
     <td colspan="2">Unitex/GramLab Sponsor</td>
@@ -131,32 +131,32 @@ Unitex/GramLab Committers are contributors who have shown dedication to the proj
 * Nominate and vote new committers.
 * Participate in the release planning.
 
-##### Linguistic Resources Commiter
+##### Linguistic Resources Committer
 [LR-contributor]
 
 * Contributing to new linguistic resources and helping maintain existing ones.
 
-###### Become a Linguistic Resources Commiter
+###### Become a Linguistic Resources Committer
 
-You need to start being a Unitex/GramLab Contributor and be then be nominated as a Linguistic Resources Commiter. Unitex/GramLab committers select and elect new ones using the [Guidelines for assessing new candidates for committership][newcommitter] from the Apache Software Foundation.
+You need to start being a Unitex/GramLab Contributor and be then be nominated as a Linguistic Resources Committer. Unitex/GramLab committers select and elect new ones using the [Guidelines for assessing new candidates for committership][newcommitter] from the Apache Software Foundation.
 
-##### Coding Commiter
-[DEV-Commiter]
+##### Coding Committer
+[DEV-Committer]
 
 * Adding features.
 * Assisting with project infrastructure.
 
-###### Become a Coding Commiter
+###### Become a Coding Committer
 
 The [documentation for developers](https://github.com//UnitexGramLab/unitex-doc-devel) is a good place to start getting familiar with the coding style and documentation guidelines. We invite contributors to share their feature development and patch idea through the [developer mailing list][devel] or the [users forum][forum]. It is recommended to start with small patches and share your code early so the existing committers can provide feedback and guidance.
 
-##### Non-Coding Commiter
+##### Non-Coding Committer
 
-[Non-code contributions](https://modelviewculture.com/pieces/non-coding-contributors-in-open-source) ([Commiter]) are incredibly valuable and very welcome,  Here are some examples of simple ways to contribute:
+[Non-code contributions](https://modelviewculture.com/pieces/non-coding-contributors-in-open-source) ([Committer]) are incredibly valuable and very welcome,  Here are some examples of simple ways to contribute:
 
 * Writing and maintaining the documentation (e.g. [tutorials][tutorials])
 
-###### Become a Non-Coding Commiter
+###### Become a Non-Coding Committer
 
 #### Unitex/GramLab Sponsor
 
