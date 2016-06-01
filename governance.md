@@ -56,7 +56,7 @@ All participants in the Unitex/GramLab community are encouraged to provide suppo
 
 Unitex/GramLab development is based on user consensus and open discussion between users. In order to have a smoothly running project, formal roles with corresponding responsibilities are established. A member of the community may have multiple roles.
 
-<table align="center">
+ <table align="center">
   <tr>
     <th>Role</th>
     <th>Type</th>
