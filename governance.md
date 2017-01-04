@@ -237,7 +237,7 @@ This document is licensed under a [Creative Commons Attribution-ShareAlike 3.0 U
 
 --
 
-Copyright (C) 2016 Université Paris-Est Marne-la-Vallée
+Copyright (C) 2017 Université Paris-Est Marne-la-Vallée
 
 [RFC2119]:      http://tools.ietf.org/html/rfc2119
 [repos]:        https://github.com/UnitexGramLab
