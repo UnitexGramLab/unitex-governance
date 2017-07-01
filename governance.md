@@ -46,7 +46,7 @@
 
 #### Code of Conduct
 
-Unitex/GramLab is intended to be a safe, welcoming space for collaboration. All contributors and participants are expected to adhere to the [Contributor Covenant version 1.4](http://contributor-covenant.org/version/1/4/code_of_conduct.md) code of conduct. To report violations, send an email to unitex-devel@univ-mlv.fr.
+Unitex/GramLab is intended to be a safe, welcoming space for collaboration. All contributors and participants are expected to adhere to the [Contributor Covenant version 1.4](http://contributor-covenant.org/version/1/4/code_of_conduct.md) code of conduct. To report violations, send an email to conduct@unitexgramlab.org.
 
 #### Getting support
 
