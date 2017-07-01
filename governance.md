@@ -14,6 +14,7 @@
 | 18/02/16 | 0.1.2      | martinec          | Add some missing links                                              |
 | 06/04/16 | 0.1.3      | martinec          | Unitex/GramLab adheres to the Contributor Covenant code of conduct  |
 | 01/06/16 | 0.1.4      | martinec          | Add Unitex/GramLab interns' roles                                   |
+| 01/07/17 | 0.1.5      | martinec          | Remove legacy-code link and update Code of Conduct email address    |
 
 ### Overview
 
@@ -30,8 +31,7 @@
 | User's forum             | http://forum.unitexgramlab.org ([request to join]( https://goo.gl/tHTGR7))  |
 | Developers chat          | http://chat.unitexgramlab.org  ([request to join]( https://goo.gl/tHTGR7))  |
 | Developers mailing list  | unitex-devel@univ-mlv.fr                                                    |
-| Code hosting (legacy)    | https://gforgeigm.univ-mlv.fr/projects/unitex                               |
-| Code hosting (active)    | http://code.unitexgramlab.org                                               |
+| Code hosting             | http://code.unitexgramlab.org                                               |
 | Governance               | http://governance.unitexgramlab.org                                         |
 
 #### License
