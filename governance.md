@@ -15,7 +15,7 @@
 | 06/04/16 | 0.1.3      | martinec          | Unitex/GramLab adheres to the Contributor Covenant code of conduct  |
 | 01/06/16 | 0.1.4      | martinec          | Add Unitex/GramLab interns' roles                                   |
 | 01/07/17 | 0.1.5      | martinec          | Remove legacy-code link and update Code of Conduct email address    |
-| 01/07/17 | 0.1.6      | martinec          | Update copyright holder to  Université Gustave Eiffel               |
+| 12/08/22 | 0.1.6      | martinec          | Update copyright holder to  Université Gustave Eiffel               |
 
 ### Overview
 
