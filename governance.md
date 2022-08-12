@@ -15,6 +15,7 @@
 | 06/04/16 | 0.1.3      | martinec          | Unitex/GramLab adheres to the Contributor Covenant code of conduct  |
 | 01/06/16 | 0.1.4      | martinec          | Add Unitex/GramLab interns' roles                                   |
 | 01/07/17 | 0.1.5      | martinec          | Remove legacy-code link and update Code of Conduct email address    |
+| 01/07/17 | 0.1.6      | martinec          | Update copyright holder to  Université Gustave Eiffel               |
 
 ### Overview
 
@@ -26,7 +27,7 @@
 
 | Name                     | Link                                                                        |
 | -------------------------| ----------------------------------------------------------------------------|
-| Main website             | http://unitexgramlab.org                                                    |
+| Main website             | https://unitexgramlab.org                                                    |
 | Binary releases          | http://releases.unitexgramlab.org                                           |
 | User's forum             | http://forum.unitexgramlab.org ([request to join]( https://goo.gl/tHTGR7))  |
 | Developers chat          | http://chat.unitexgramlab.org  ([request to join]( https://goo.gl/tHTGR7))  |
@@ -235,9 +236,9 @@ Building community trust in the governance of an open-source project is vital to
 
 This document is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/). This work is based upon the [OpenRefine Governance Model](https://github.com/OpenRefine/openrefine.github.com/blob/master/governance.md) and the [OWIN Project Governance model](https://docs.google.com/document/d/1mn3dY6zNyKBU3P_TWoR-RdYpScJDbsXU2TRhwpSAha8), which themselves are based upon  [Meritocratic Governance Model](http://www.oss-watch.ac.uk/resources/meritocraticGovernanceModel) by University of Oxford. This document contains information about the [Lazy Consensus](http://community.apache.org/committers/lazyConsensus.html) concept available from the [Apache Community](http://community.apache.org) and uses the [Semantic Versioning scheme](http://semver.org) to track version releases.
 
---
+---
 
-Copyright (C) 2017 Université Paris-Est Marne-la-Vallée
+Copyright (C) 2022 Université Gustave Eiffel
 
 [RFC2119]:      http://tools.ietf.org/html/rfc2119
 [repos]:        https://github.com/UnitexGramLab
